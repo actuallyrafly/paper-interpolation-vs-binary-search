@@ -74,6 +74,6 @@ Referensi internasional berikut digunakan untuk memperkuat landasan teori, bukan
 
 
 
-## Catatan Etika dan Reproduksibilitas
+## Catatan dan Reproduksibilitas
 
-Repository ini digunakan untuk penelitian dan dokumentasi eksperimen. Hasil benchmark tidak boleh dimanipulasi untuk mendukung algoritma tertentu. Semua perubahan protokol, keterbatasan perangkat, kegagalan eksperimen, dan hasil yang tidak sesuai hipotesis perlu dicatat di `docs/research-log.md`.
+Semua perubahan protokol, keterbatasan perangkat, kegagalan eksperimen, dan hasil yang tidak sesuai hipotesis perlu dicatat di `docs/research-log.md`.
