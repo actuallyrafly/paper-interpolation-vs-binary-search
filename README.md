@@ -56,7 +56,7 @@ Semua dataset harus diurutkan sebelum digunakan oleh kedua algoritma.
 
 3. Purnama, N. (2025). **Comparative Performance Study of Search Algorithms on Large-Scale Data Structures**. *JITK (Jurnal Ilmu Pengetahuan dan Teknologi Komputer), 11*(1). https://doi.org/10.33480/jitk.v11i1.6592
 
-### Referensi Pendukung Indonesia
+### Referensi Pendukung
 
 - **Analisis Perbandingan Penggunaan Algoritma Sequential Search dan Binary Search pada Aplikasi Surat Perjalanan Dinas**. JATI. https://ejournal.itn.ac.id/jati/article/view/4569
 - **Perbandingan Algoritma Binary Search dan Sequential Search untuk Pencarian Persediaan Stok Barang Berbasis Web**. STRING. https://www.journal.lppmunindra.ac.id/index.php/STRING/article/view/16475
